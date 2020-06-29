@@ -1,5 +1,6 @@
 # Job-Schedular-MEGA-PROJECT-
 A project with utilizes Binary Search Trees Data Structure to develop a dynamic program that maintains the schedule of the daily operations of a company.
+![alt-text](https://github.com/fhylinjr/Job-Schedular-MEGA-PROJECT-/blob/master/job%20scheduler.gif)
 #  GoMiFaTwi
 Financial Services, has a list of daily operation processing jobs (background) which run their business operations.
 Jobs that load prices, transactions, validate incoming transactions, daily reports,etc
